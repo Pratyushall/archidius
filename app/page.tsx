@@ -10,9 +10,7 @@ export default function HomePage() {
     <main className="min-h-screen">
       <Navigation />
       <HeroSection />
-      <PhilosophySection />
       <FeaturedProjects />
-
       <Footer />
     </main>
   );
